@@ -1,0 +1,11 @@
+.container-row {
+  height: 550px;
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.jumbo-container {
+  background-color: floralwhite !important;
+}
